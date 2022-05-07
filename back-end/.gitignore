@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+package-lock.json
+
+# environment variables
+.env
+.idea
